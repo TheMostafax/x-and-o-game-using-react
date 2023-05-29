@@ -17,7 +17,7 @@ A simple X&O using ReactJs and Tailwind
 
 
 
-<h3 align="left">Home page win the player wins</h3>
+<h3 align="left">Home page when the player wins</h3>
 
 ![gui home win](https://github.com/TheMostafax/x-and-o-game-using-react/assets/81190585/5a3788e6-2b59-4cac-bffb-84ffe7c2b09b)
 
